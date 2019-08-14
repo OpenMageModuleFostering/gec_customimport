@@ -1,13 +1,13 @@
 {
     "name": "OpenMageModuleFostering/Gec_Customimport",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "GNU-Affero-General-Public-License",
     "homepage": "",
-    "description": "Magento Catalog Import",
+    "description": "Maintain your catalog in an ERP or an external system and import into Magento using a standardised XML format.",
     "authors": [
     {
-        "name": "Soham Chakraborty",
-        "email": "soham.c@serenusinfotech.com"
+        "name": "Vince Clark",
+        "email": "vclark@globalera.com"
     }
 ],
     "suggest": {
