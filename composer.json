@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Gec_Customimport",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Magento Catalog Import",
+    "authors": [
+    {
+        "name": "Soham Chakraborty",
+        "email": "soham.c@serenusinfotech.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
