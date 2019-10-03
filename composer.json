@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Gec_Customimport",
+    "name": "OpenMageModuleFostering\/Gec_Customimport",
     "type": "magento-module",
     "license": "GNU-Affero-General-Public-License",
     "homepage": "",
     "description": "Maintain your catalog in an ERP or an external system and import into Magento using a standardised XML format.",
     "authors": [
-    {
-        "name": "Vince Clark",
-        "email": "vclark@globalera.com"
-    }
-],
+        {
+            "name": "Vince Clark",
+            "email": "vclark@globalera.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
